@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+node_modules
+.env
+.env.tests
+.nyc_output
